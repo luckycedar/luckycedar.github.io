@@ -1,14 +1,14 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "spider": "https://luckycedar.github.io/m/jar/BL0608.jar;md5;065c92f7720fa01e64086455d201cfe1",
-  "lives": [
+   "lives": [
     {
       "group": "redirect",
       "channels": [
         {
           "name": "live",
           "urls": [
-            // base64(https://luckycedar.github.io/m/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
+            // base64(https://luckycedar.github.io/m/tv/live.txt) =aHR0cHM6Ly9sdWNreWNlZGFyLmdpdGh1Yi5pby9tL3R2L2xpdmUudHh0
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9sdWNreWNlZGFyLmdpdGh1Yi5pby9tL3R2L2xpdmUudHh0"
           ]
         }
