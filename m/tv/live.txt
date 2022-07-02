@@ -1,4 +1,69 @@
-﻿🐳douyu(ljk播放器),#genre#
+📺Youtube to M3u8(test),#genre#
+Peppa Pig,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
+Lion Family,https://ytm2.yuanhsing.cf/LionFamily.m3u8
+Lion Family English,https://ytm2.yuanhsing.cf/LionFamily2.m3u8
+Masha and the Bear,https://ytm2.yuanhsing.cf/MashaandtheBear.m3u8
+Masha and the Bear2,https://ytm2.yuanhsing.cf/MashaandtheBear2.m3u8
+Wolfoo's stories,https://ytm2.yuanhsing.cf/Wolfoosstories.m3u8
+Pea Pea Korea,https://ytm2.yuanhsing.cf/PeaPeaKorea.m3u8
+Oddbods & FRIENDS,https://ytm2.yuanhsing.cf/OddbodsFRIENDS.m3u8
+CANDY CRUSH,https://ytm2.yuanhsing.cf/CANDYCRUSH.m3u8
+Hogi! Pinkfong,https://ytm2.yuanhsing.cf/HOGI.m3u8
+Antiks Cartoons,https://ytm2.yuanhsing.cf/AntiksOfficial.m3u8
+Loco Nuts,https://ytm2.yuanhsing.cf/LocoNutsCartoonVideos.m3u8
+Get Movies,https://ytm2.yuanhsing.cf/GetMovies.m3u8
+Baby Shark Doo Doo Doo,https://ytm2.yuanhsing.cf/BabySharkOfficial.m3u8
+Talking Tom Heroes Adventures,https://ytm2.yuanhsing.cf/TalkingTomHeroes.m3u8
+Booba,https://ytm2.yuanhsing.cf/BoobaCartoon.m3u8
+Oko Lele,https://ytm2.yuanhsing.cf/OkoLeleOfficialchannel.m3u8
+ARIRANG K-POP,https://ytm2.yuanhsing.cf/arirangworld.m3u8
+ALL THE K-POP,https://ytm2.yuanhsing.cf/ALLTHEKPOP.m3u8
+The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+The K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
+Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
+Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
+NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
+RailWay,https://ytm2.yuanhsing.cf/RailWay.m3u8
+RailCowGirl,https://ytm2.yuanhsing.cf/RailCowGirl.m3u8
+Justice Pao,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+GTV DRAMA,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+Formosa TV Dramas,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+CTS SHOW,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+Faintv VARIETY1,https://ytm2.yuanhsing.cf/AsiaDigitalMedia.m3u8
+Faintv VARIETY2,https://ytm2.yuanhsing.cf/Faintv.m3u8
+CTITV News,https://ytm2.yuanhsing.cf/ctitv.m3u8
+EBC,https://ytm2.yuanhsing.cf/newsebc.m3u8
+EBC Financial,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+TTV News,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+CTV News,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+SETN Live News,https://ytm2.yuanhsing.cf/SETN.m3u8
+SET+ Live News,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+SET iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
+Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
+🐳douyu(ljk播放器),#genre#
+【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
+【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
+【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
+【猫和老鼠】汤姆和杰瑞的故事,https://epg.112114.xyz/huya/11352879
+搞笑的一家人,https://epg.112114.xyz/huya/11342402
+网球王子·费德勒看了想打人,https://epg.112114.xyz/huya/11352882
+蜡笔小新·逗比少年欢乐多,https://epg.112114.xyz/huya/11352970
+路飞带领大家向顶上前进,https://epg.112114.xyz/huya/16913382
+【中华小当家】看的我口水直流～,https://epg.112114.xyz/huya/11342413
+冲啊！四驱兄弟嘴控大战,https://epg.112114.xyz/huya/11352922
+茶啊二中,https://epg.112114.xyz/huya/11213191
+灵剑山·试炼开启,https://epg.112114.xyz/huya/11352896
+乐高大师赛！创意惊人,https://epg.112114.xyz/huya/26355776
+小时候玩不起的超帅玩具,https://epg.112114.xyz/huya/26355832
+成龍历险记·社会我阿福乌鸦坐飞机,https://epg.112114.xyz/huya/11352946
+
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 ✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160
@@ -187,7 +252,33 @@ HBO[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b500
 凤凰资讯5,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 凤凰资讯6,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
+凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
+凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1?zgangd
+凤凰中文,http://39.135.55.7:6610/PLTV/88888888/224/3221227222/1ndex.m3u8?servicetype=1&IASHttpSessionld=OTT&IASHttpSessionId=OTT3514020220406143948025713?zgangd
+凤凰中文,http://39.135.55.7:6610/PLTV/88888888/224/3221227222/1ndex.m3u8?servicetype=1&IASHttpSessionld=OTT?zgangd
+凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1?zgangd
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
+凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2?zgangd
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+翡翠台,http://120.84.96.43:808/hls/25/index.m3u8
+明珠台,http://120.84.96.43:808/hls/26/index.m3u8
+J2,http://120.84.96.43:808/hls/86/index.m3u8
+天映电影,http://120.84.96.43:808/hls/85/index.m3u8
+星空卫视,http://120.84.96.43:808/hls/79/index.m3u8
 
 
 无线财经,http://radius.8866.org:880/hls/83/index.m3u8
