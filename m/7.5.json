@@ -21,6 +21,7 @@
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
